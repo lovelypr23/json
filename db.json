@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "productID": 1,
+            "productName": "Clothes",
+            "productQuantity": 100,
+            "productPrice": 59999
+        },
+        {
+            "productID": 2,
+            "productName": "Footwear",
+            "productQuantity": 80,
+            "productPrice": 55000
+        },
+        {
+            "productID": 3,
+            "productName": "Cosmetics",
+            "productQuantity": 50,
+            "productPrice": 10000
+        },
+        {
+            "productID": 4,
+            "productName": "Perfumes",
+            "productQuantity": 200,
+            "productPrice": 58000
+        },
+        {
+            "productID": 5,
+            "productName": "Chocolates",
+            "productQuantity": 1000,
+            "productPrice": 80000
+        }
+    ]
+}
